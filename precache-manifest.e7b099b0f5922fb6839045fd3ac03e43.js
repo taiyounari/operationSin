@@ -92,12 +92,12 @@ self.__precacheManifest = [
     "url": "/operationSin/static/media/forever.34f9dff9.otf"
   },
   {
-    "revision": "9c2a5a0ad1ada8b84e3a37c16ed12343",
-    "url": "/operationSin/static/media/franken.9c2a5a0a.otf"
-  },
-  {
     "revision": "b1b2e2db2eef02d230247a474d1d66a6",
     "url": "/operationSin/static/media/chiller.b1b2e2db.ttf"
+  },
+  {
+    "revision": "9c2a5a0ad1ada8b84e3a37c16ed12343",
+    "url": "/operationSin/static/media/franken.9c2a5a0a.otf"
   },
   {
     "revision": "b3dafea31752a3c3d3bcb06c177f8de6",
