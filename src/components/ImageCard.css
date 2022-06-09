@@ -1,0 +1,8 @@
+.card-container {
+  flex-direction: "row";
+  width: 200;
+  height: 300;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
