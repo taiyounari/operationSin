@@ -1,5 +1,4 @@
 import { useEffect, useRef, useState } from "react";
-import { Link } from "react-router-dom";
 import textBox from "../assets/image/textBox.png"
 import React from 'react';
 import Typography from "@mui/material/Typography";
